@@ -1,1 +1,1 @@
-hello welcom to python claSS
+hello welcom to python class
